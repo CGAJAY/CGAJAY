@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a MERN stack e-commerce app.
 - 🌱 I’m learning TypeScript and Next.js.
-- 💬 Ask me about React, Zustand, and MongoDB.
+- 💬 Ask me about React, Zustand, Express.js and MongoDB.
 - 📫 How to reach me: [jmugendi737@gmail.com](mailto:jmugendi737@gmail.com)
 
 ---
