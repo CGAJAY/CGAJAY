@@ -39,7 +39,7 @@
 ### 📇 Connect with Me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/john-mugendi-3851b5254/" target="_blank">
+  <a href="https://www.linkedin.com/in/john-mugendi/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
 </p>
