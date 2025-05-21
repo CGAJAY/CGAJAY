@@ -41,7 +41,7 @@ I specialize in building clean, scalable web and mobile apps using the **MERN st
 
 ### 📫 Let’s Connect
 
-- 📧 Email: [hello@devajay.me](mailto:hello@devajay.me)  
+- 📧 Email: [hello@devajay.me](mailto:jmugendi737@gmail.com)  
 - 🔗 LinkedIn: [john-mugendi](https://www.linkedin.com/in/john-mugendi/)
 
 ---
