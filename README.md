@@ -41,7 +41,7 @@ I specialize in building clean, scalable web and mobile apps using the **MERN st
 
 ### 📫 Let’s Connect
 
-- 📧 Email: [jmugendi737@gmail.com](mailto:jmugendi737@gmail.com)  
+- 📧 Email: [hello@johnmugendi.com](mailto:hello@johnmugendi.com)  
 - 🔗 LinkedIn: [john-mugendi](https://www.linkedin.com/in/john-mugendi/)
 
 ---
