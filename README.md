@@ -1,18 +1,19 @@
 # 👋 Welcome to My GitHub Profile
 
-### Hi, I'm **John Mugendi** — a full-stack software engineer from Nairobi, Kenya 🇰🇪  
-I specialize in building **full-stack applications**, **backend systems**, **CLI tools**, and **scalable software** using **Golang**, **TypeScript**, and modern technologies.
+### Hi, I'm **John Mugendi** — a software engineer based in Nairobi, Kenya 🇰🇪.  
+I specialize in building **scalable web applications**, **cloud-native backend systems**, **automation tools**, and **developer-centric CLI solutions** using **Golang**, **TypeScript**, and modern technologies.
 
 ---
 
 ### 💼 What I Do
 
-- ⚙️ Building **robust backend systems** and APIs with **Golang** and **Node.js**.
-- 🖥️ Developing **frontend applications** with **React** and **Next.js**.
-- 🛠️ Creating **CLI tools** and automation scripts to simplify workflows.
-- 🗄️ Designing and managing databases (**PostgreSQL**, **MySQL**, **MongoDB**).
-- 💡 Writing **clean, modular, and maintainable code**.
-- 🚀 Optimizing applications for **performance** and **scalability**.
+- ⚙️ Architect and implement **robust backend systems** and **REST/GraphQL APIs** with **Golang** and **Node.js**.
+- 🖥️ Develop **responsive, user-friendly web applications** with **React** and **Next.js**.
+- 🛠️ Build **CLI tools**, **automation scripts**, and developer utilities to streamline workflows.
+- 🗄️ Design and optimize **relational and NoSQL databases** (**PostgreSQL**, **MySQL**, **MongoDB**) for high performance.
+- 💡 Write **clean, modular, and maintainable code** following best engineering practices.
+- 🚀 Optimize applications for **performance, scalability, and reliability**.
+
 
 ---
 
